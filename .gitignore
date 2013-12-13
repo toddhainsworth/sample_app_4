@@ -17,3 +17,6 @@
 
 # No secrets for you!
 *.secret
+
+# Stop is MAC!
+*DS*
